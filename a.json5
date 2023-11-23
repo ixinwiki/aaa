@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": 415,
+    "attributes": {
+      "applyReason": "sb",
+      "email": "45@shabi.com",
+      "name": "煞笔",
+      "qq": "12",
+      "studentId": "654465",
+      "hadExperience": true,
+      "grade": 2,
+      "experience": "sb",
+      "createdAt": "2023-11-23T12:19:53.024Z",
+      "updatedAt": "2023-11-23T12:19:53.024Z"
+    }
+  },
+  "meta": {}
+}
