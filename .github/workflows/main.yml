@@ -1,6 +1,7 @@
 name: Python Script
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '*/1 * * * *'  # 每分钟运行一次
 

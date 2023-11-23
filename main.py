@@ -76,7 +76,7 @@ proxies = {
 session = requests.session()
 
 # session.verify = False
-session.proxies = proxies
+# session.proxies = proxies
 
 # Loop and send the request
 import json
